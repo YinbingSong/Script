@@ -31,6 +31,7 @@ unblockremote.js 内容为：
 
 
 5.引用远程JS.conf
-1.复制https://raw.githubusercontent.com/YinbingSong/Script/master/QuantumultX/Js.conf链接， 2.进入Quantumult X，点击右下角三菱按钮，找到Rewrite模块-点击 引用，粘贴刚刚复制的链接；
+
+进入Quantumult X，点击右下角三菱按钮，找到Rewrite模块-点击 引用，粘贴链接``https://raw.githubusercontent.com/YinbingSong/Script/master/QuantumultX/Js.conf``；
 
 **本脚本库引用网上多种资源，如有侵权，请告知，我会立即删除相关资源。**
